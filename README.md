@@ -9,6 +9,7 @@
 4. ![4](https://github.com/nespaces/git-hw/blob/main/img/4.png)
 5. ![5](https://github.com/nespaces/git-hw/blob/main/img/5.png)
 6. ![5](https://github.com/nespaces/git-hw/blob/main/img/6.png)
+
 Ссылка на коммит https://github.com/nespaces/git-hw/commit/69b0faf9fde2cffe008967cc7efe0fc41068a823
 
 ### Задание 2
